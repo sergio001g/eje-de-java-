@@ -28,7 +28,7 @@ Esta colección contiene 20 ejercicios de programación en Java que cubren diver
 ## Nivel de Dificultad
 
 Los ejercicios varían en dificultad desde nivel intermedio hasta avanzado, siendo ideales para:
-- Preparación para entrevistas técnicas
+
 - Práctica de algoritmos y estructuras de datos
 - Mejora de habilidades de programación en Java
 
